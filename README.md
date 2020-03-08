@@ -1,2 +1,5 @@
-# aritram1.github.io
-My website
+# Website
+## Contents
+```bash
+$ whoami
+$ aritra mukherjee
